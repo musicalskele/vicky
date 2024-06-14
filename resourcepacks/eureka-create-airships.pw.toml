@@ -1,0 +1,13 @@
+name = "Eureka! Create Airships!"
+filename = "Eureka Create 1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ee6d5c4386feece6498ed91aa9ec4c038f0f644"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5144069
+project-id = 807817

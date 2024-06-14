@@ -1,0 +1,13 @@
+name = "NoDura"
+filename = "nodura-0.0.3-1.20+.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/33JxPYdP/versions/C4gTygux/nodura-0.0.3-1.20%2B.jar"
+hash-format = "sha1"
+hash = "88e186b86d3f348c1851fca4c0a30c96697d7a75"
+
+[update]
+[update.modrinth]
+mod-id = "33JxPYdP"
+version = "C4gTygux"

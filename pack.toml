@@ -1,0 +1,13 @@
+name = "TotC"
+author = "musicalskele, topipop"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f78689bd2081780fac9214508d8ffff58c6f4b572fe1806465df33bdce6bb947"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
