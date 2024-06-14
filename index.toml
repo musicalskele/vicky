@@ -79,6 +79,11 @@ hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "0a0ad4de0d4b1f6d8a87966807bb32894fc1099adebe10781485e4afb113ffb2"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "577bb19456260cbf7c6dcf07be2a20e2171c6398917c984cc0dbe2bf1083059c"
 metafile = true
 
 [[files]]
